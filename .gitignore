@@ -6,3 +6,5 @@ release/
 vite.out.log
 vite.err.log
 *.log
+
+.vercel
