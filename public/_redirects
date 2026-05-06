@@ -1,0 +1,2 @@
+# Netlify fallback. Static files such as /art/topic01/page01.png are served first.
+/* /index.html 200
